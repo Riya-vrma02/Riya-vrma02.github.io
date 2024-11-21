@@ -21,7 +21,7 @@
 ### projects :
 >bot vs person tic tac toe game played online(using javascript, HTML and CSS)
 
-![tic tac toe](t.webp)
+![tic tac toe](tic tac toe.png)
 
 ### Future goals : 
 - [x] mastering a new programming language.
